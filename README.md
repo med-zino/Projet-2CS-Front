@@ -112,7 +112,7 @@ Rented provides
 - posts gesture
 - recommendation gesture
 
----
+
 ---
 If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
 
